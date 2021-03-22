@@ -10,7 +10,6 @@ export class BeastCardComponent implements OnInit {
 
   constructor(public beastsSvc:BeastsService) {}
 
-  ngOnInit() {
-  }
+  ngOnInit() 
 
 }
